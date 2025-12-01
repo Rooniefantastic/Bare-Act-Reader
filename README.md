@@ -1,2 +1,5 @@
-# Bare-Act-Reader
-Just a simple android app for reading indian bare acts
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
